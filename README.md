@@ -1,0 +1,1 @@
+This repository contains the code and files from my journey exploring the field of Quantum Computing starting with the book; Programming Quantum Computers Essential Algorithms and Code Samples By Mercedes Gimeno-Segovia, Nic Harrigan, Eric Johnston. 
